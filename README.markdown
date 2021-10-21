@@ -9,8 +9,9 @@
 
 Here are links to all my other pages where I added cool stuff
 
-- [Images](AboutMe.markdown)
+- [Images](Images.markdown)
 - [Websites](Websites.markdown)
 - [My Interests](MyInterests.markdown)
-- 
+- [Code](Code.markdown)
+- []()
 
